@@ -1,7 +1,7 @@
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
-CREATE TABLE IF NOT EXISTS  cars  (
+CREATE TABLE IF NOT EXISTS  cars (
  car_id  int(20) NOT NULL,
    car_name  varchar(50) NOT NULL,
    car_nameplate  varchar(50) NOT NULL,
